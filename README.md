@@ -1,6 +1,6 @@
 ## Hi, I'm João 👋
 
-- 🖥️ I’m currently studying Computer Science at State University of Northern Parana(UENP)!
+- 👨‍💻 I’m currently studying Computer Science at State University of Northern Parana(UENP)!
 - 🌱 I’m currently learning
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
