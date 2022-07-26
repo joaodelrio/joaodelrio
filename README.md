@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently studying at State University of Northern Parana(UENP)!
 - 🌱 I’m currently learning
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  -Java, and Python
 - 📫 How to reach me: joaodlrio@outlook.com
 
 <div style="display: inline_block">
