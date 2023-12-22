@@ -3,6 +3,8 @@
 - 👨‍💻 I’m currently studying Computer Science at State University of Northern Parana(UENP)!
 - 🌱 I’m currently learning
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  - 
 
 
 
